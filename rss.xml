@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Roberto Maria Grassi]]></title>
         <description><![CDATA[Roberto Maria Grassi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/montsalvat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 19:22:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 19:24:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/montsalvat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Roberto Maria Grassi]]></title>
             <description><![CDATA[<article><h1>Roberto Maria Grassi</h1><p>Après un début de carrière en tant que chef d'orchestre et compositeur de musique de films, depuis 1998 Roberto Maria Grassi se consacre exclusivement à la réalisation audiovisuelle, en particulier dans le domaine du théâtre, de la musique et de la danse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3c780120c750bb11d4bff1d8dccdf58de662bf8.jpg"></article>]]></description>
             <link>https://fr.wikipedia.org/wiki/Roberto_Maria_Grassi</link>
             <guid isPermaLink="false">82394aaa-bf70-4baa-8ed9-f9b3278f67dc</guid>
-            <pubDate>Wed, 17 Aug 2016 19:22:16 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 19:24:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
