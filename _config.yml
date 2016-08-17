@@ -1,3 +1,4 @@
+layout_spectrum: 0.3283519227989018
 typography_spectrum: 0.04482694761827588
 color:
   brandStrength: 0.10593253746628761
@@ -10,7 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.3283519227989018
 name: Montsalvat
-title: Roberto Maria Grassi
-description: filming music
