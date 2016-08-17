@@ -1,16 +1,16 @@
-typography_spectrum: 0.04482694761827588
+typography_spectrum: 0.20018579764291644
 color:
-  brandStrength: 0.10593253746628761
-  lightness: 0.8673841974232346
-  saturation: 0.721158069325611
-  rhythmicContrast: 0.494335773633793
+  brandStrength: 0.29979850910604
+  lightness: 0.25847163517028093
+  saturation: 0.2718395898118615
+  rhythmicContrast: 0.26206502923741937
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.3283519227989018
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.19418861041776836
 author:
   name: Roberto Maria Grassi
   email: robertomariagrassi@icloud.com
