@@ -1,4 +1,3 @@
-layout_spectrum: 0.3283519227989018
 typography_spectrum: 0.04482694761827588
 color:
   brandStrength: 0.10593253746628761
@@ -6,9 +5,11 @@ color:
   saturation: 0.721158069325611
   rhythmicContrast: 0.494335773633793
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.3283519227989018
 name: Montsalvat
+title: Roberto Maria Grassi
