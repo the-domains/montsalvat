@@ -1,0 +1,14 @@
+layout_spectrum: 0.3283519227989018
+typography_spectrum: 0.04482694761827588
+color:
+  brandStrength: 0.10593253746628761
+  lightness: 0.8673841974232346
+  saturation: 0.721158069325611
+  rhythmicContrast: 0.494335773633793
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Montsalvat
